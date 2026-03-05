@@ -4,6 +4,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import static Opgave02.Opgave02Main.fibonacci;
+import static Opgave02.Opgave02Main.fibonacciHelper;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class Opgave02MainTest {
